@@ -22,9 +22,9 @@ An iOS app with a Safari Web Extension focused on browsing automation and AI-pow
 - Unit-tested ViewModels using test doubles (fakes, stubs, spies)
 - CI/CD configured with Xcode Cloud (builds, tests, archiving, TestFlight and App Store delivery)
 
-🔗 App Store: https://apps.apple.com/app/syver/id6744258944
-🔗 iOS App & Extension: https://github.com/drab111/Syver
-🔗 Vapor Backend: https://github.com/drab111/Syver-backend
+🔗 App Store: https://apps.apple.com/app/syver/id6744258944  
+🔗 iOS App & Extension: https://github.com/drab111/Syver  
+🔗 Vapor Backend: https://github.com/drab111/Syver-backend  
 
 ---
 
