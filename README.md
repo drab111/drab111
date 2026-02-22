@@ -2,18 +2,35 @@
 
 **iOS Developer**
 
-Product-focused iOS Developer with hands-on experience shipping iOS applications to the App Store.
-Experienced across the full development lifecycle — from architecture and implementation to testing and automated delivery — with a strong focus on modern, maintainable codebases.
+Product-focused iOS Developer with hands-on experience shipping and maintaining iOS applications on the App Store.
+Experienced across the full development lifecycle - from architecture and implementation to testing and automated delivery - with a strong focus on modern, scalable codebases.
+
+---
+
+## Live Apps
+
+- Syver - https://apps.apple.com/app/syver/id6744258944  
+- Flowt: Offshore - https://apps.apple.com/app/flowt-offshore/id6753603068  
 
 ---
 
 ## Featured Products
 
 ### **Syver**
+
+<p align="center">
+  <img src="Screenshots/dashboard.png" width="16%">
+  <img src="Screenshots/safaripopup.png" width="16%">
+  <img src="Screenshots/modelselection.png" width="16%">
+  <img src="Screenshots/summaries.png" width="16%">
+  <img src="Screenshots/editsummary.png" width="16%">
+  <img src="Screenshots/clicker.png" width="16%">
+</p>
+
 An iOS app with a Safari Web Extension focused on browsing automation and AI-powered summaries.
 
 - SwiftUI iOS app built using MVVM + Coordinator and a modular service layer
-- Multi-feature Safari Web Extension with bidirectional integration with the host app
+- Multi-feature Safari Web Extension with automation, privacy-focused features, and AI-powered summarization integrated with the iOS app
 - Offline-first persistence with SwiftData and CloudKit synchronization, supporting paginated data access
 - External AI API integration with TTL-based caching and retry logic with jitter
 - Idempotent data synchronization between the extension and the app using CloudKit
@@ -29,6 +46,16 @@ An iOS app with a Safari Web Extension focused on browsing automation and AI-pow
 ---
 
 ### **Flowt: Offshore**
+
+<p align="center">
+  <img src="Screenshots/gameview.png" width="16%">
+  <img src="Screenshots/profile.png" width="16%">
+  <img src="Screenshots/leaderboard.png" width="16%">
+  <img src="Screenshots/signin.png" width="16%">
+  <img src="Screenshots/info.png" width="16%">
+  <video src="Screenshots/flowt-trailer.mov" width="16%" autoplay loop muted playsinline></video>
+</p>
+
 A polished iOS strategy game built with SwiftUI and SpriteKit.
 
 - Production game using SwiftUI as the app shell and SpriteKit for the gameplay scene
