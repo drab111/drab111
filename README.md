@@ -53,7 +53,7 @@ An iOS app with a Safari Web Extension focused on browsing automation and AI-pow
   <img src="Screenshots/leaderboard.png" width="16%">
   <img src="Screenshots/signin.png" width="16%">
   <img src="Screenshots/info.png" width="16%">
-  <video src="Screenshots/flowt-trailer.mov" width="16%" autoplay loop muted playsinline></video>
+  <img src="Screenshots/flowt-trailer.gif" width="16%">
 </p>
 
 A polished iOS strategy game built with SwiftUI and SpriteKit.
