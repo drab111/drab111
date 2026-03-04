@@ -17,6 +17,7 @@ Experienced across the full development lifecycle - from architecture and implem
 ## Featured Products
 
 ### **Syver**
+An iOS app with a Safari Web Extension focused on browsing automation and AI-powered summaries.
 
 <p align="center">
   <img src="Screenshots/dashboard.png" width="16%">
@@ -27,9 +28,8 @@ Experienced across the full development lifecycle - from architecture and implem
   <img src="Screenshots/clicker.png" width="16%">
 </p>
 
-An iOS app with a Safari Web Extension focused on browsing automation and AI-powered summaries.
 
-- SwiftUI iOS app built using MVVM + Coordinator and a modular service layer
+- SwiftUI iOS app built using MVVM, Coordinator and a modular service layer
 - Multi-feature Safari Web Extension with automation, privacy-focused features, and AI-powered summarization integrated with the iOS app
 - Offline-first persistence with SwiftData and CloudKit synchronization, supporting paginated data access
 - External AI API integration with TTL-based caching and retry logic with jitter
@@ -46,6 +46,7 @@ An iOS app with a Safari Web Extension focused on browsing automation and AI-pow
 ---
 
 ### **Flowt: Offshore**
+A polished iOS strategy game built with SwiftUI and SpriteKit.
 
 <p align="center">
   <img src="Screenshots/gameview.png" width="16%">
@@ -56,7 +57,6 @@ An iOS app with a Safari Web Extension focused on browsing automation and AI-pow
   <img src="Screenshots/flowt-trailer.gif" width="16%">
 </p>
 
-A polished iOS strategy game built with SwiftUI and SpriteKit.
 
 - Production game using SwiftUI as the app shell and SpriteKit for the gameplay scene
 - Modular architecture with MVVM, an async service layer, and centralized app state
